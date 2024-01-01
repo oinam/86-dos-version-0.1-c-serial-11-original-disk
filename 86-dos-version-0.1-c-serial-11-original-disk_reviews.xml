@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="86-dos-version-0.1-c-serial-11-original-disk">
+  <review>
+    <reviewtitle>Incredible find</reviewtitle>
+    <reviewbody>Amazing that this has eluded early computer enthusiasts for the longest time now. Thanks very much for preserving a piece of software history!
+
+It should also be noted that this version is actually 0.11, and not 0.10. Being that a whopping 10 people have laid eyes on it, that would be another holy grail find to come across.</reviewbody>
+    <stars>5</stars>
+    <reviewer>Blue Horizon 137</reviewer>
+    <reviewdate>2023-12-29 19:45:00</reviewdate>
+    <createdate>2023-12-29 19:45:00</createdate>
+    <reviewer_itemname>@blue_horizon_137</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Very nice</reviewtitle>
+    <reviewbody>Nice, but can 86Box run this?</reviewbody>
+    <stars>5</stars>
+    <reviewer>TechActivate 781</reviewer>
+    <reviewdate>2023-12-30 16:26:34</reviewdate>
+    <createdate>2023-12-30 16:26:34</createdate>
+    <reviewer_itemname>@techactivate_781</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>2</num_reviews>
+    <avg_rating>5.00</avg_rating>
+  </info>
+</reviews>

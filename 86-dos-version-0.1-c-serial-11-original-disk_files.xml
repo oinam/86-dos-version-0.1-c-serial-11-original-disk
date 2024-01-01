@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="86-DOS Version 0.1-C - Serial #11 (ORIGINAL DISK) - Imaging Log.txt" source="original">
+    <mtime>1703874323</mtime>
+    <size>2598</size>
+    <md5>b84a741dbd8f2b19e719b796bdcc8cb1</md5>
+    <crc32>a18fa99d</crc32>
+    <sha1>cd0fdb2c19b926a88c7205e2cc429f08cb92bbb5</sha1>
+    <format>Text</format>
+    <viruscheck>1703875332</viruscheck>
+  </file>
+  <file name="86-DOS Version 0.1-C - Serial #11 (ORIGINAL DISK).dmk" source="original">
+    <mtime>1703874343</mtime>
+    <size>411504</size>
+    <md5>2585b9fbdf79596bab5f56082214f6c6</md5>
+    <crc32>f9a22660</crc32>
+    <sha1>37907fb860adbc032e83b083ef5d82f9457e68a7</sha1>
+    <format>Unknown</format>
+    <viruscheck>1703875332</viruscheck>
+  </file>
+  <file name="86-DOS Version 0.1-C - Serial #11 (ORIGINAL DISK).imd" source="original">
+    <mtime>1703874348</mtime>
+    <size>32500</size>
+    <md5>a6dcf95aa0eec58fd7a2d67c88058744</md5>
+    <crc32>374957cc</crc32>
+    <sha1>b927af9455df7c543c34a8e0ef39b36bbb9321f2</sha1>
+    <format>Unknown</format>
+    <viruscheck>1703875332</viruscheck>
+  </file>
+  <file name="86-DOS Version 0.1-C - Serial #11 (ORIGINAL DISK).img" source="original">
+    <mtime>1703874351</mtime>
+    <size>256256</size>
+    <md5>773e170d5797a0ea726539ef5af3b8a9</md5>
+    <crc32>f384a75d</crc32>
+    <sha1>3f8673fcf8fd7cf6910644a7695a0ca80251d8a0</sha1>
+    <format>ISO Image</format>
+    <viruscheck>1703875332</viruscheck>
+  </file>
+  <file name="86-DOS Version 0.1-C - Serial #11 (ORIGINAL DISK).jpg" source="original">
+    <mtime>1703874356</mtime>
+    <size>142231</size>
+    <md5>ff896be9cd3fe87390c2b6c0cf77b203</md5>
+    <crc32>af398546</crc32>
+    <sha1>569ce80602fb64ea69247ef0bf6ba26647938910</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="86-DOS Version 0.1-C - Serial #11 (ORIGINAL DISK)_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>86-DOS Version 0.1-C - Serial #11 (ORIGINAL DISK).jpg</original>
+    <mtime>1703876531</mtime>
+    <size>6888</size>
+    <md5>5b54ccf12b013bca1618d92249152e32</md5>
+    <crc32>2ebf5aba</crc32>
+    <sha1>3e431b77254f09e2bcea4c6fff31fab3953af64f</sha1>
+  </file>
+  <file name="86-dos-version-0.1-c-serial-11-original-disk_archive.torrent" source="metadata">
+    <btih>7fdf3f2c02b89d868ec1a0a20ab32a51e27ed225</btih>
+    <mtime>1704053947</mtime>
+    <size>3216</size>
+    <md5>7b19c08205551382c6543bc1e174cc83</md5>
+    <crc32>58f70ef9</crc32>
+    <sha1>325c12025be4f2369ddfe90b0c952e11bd998534</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="86-dos-version-0.1-c-serial-11-original-disk_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b920755f96f13d4a6b23b2c051adc2e4</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="86-dos-version-0.1-c-serial-11-original-disk_meta.sqlite" source="original">
+    <mtime>1703874393</mtime>
+    <size>40960</size>
+    <md5>a88211c59855ed23434a199f50833e7f</md5>
+    <crc32>bb946443</crc32>
+    <sha1>9eb6706209ceaf512b52f524e76b4c9cc4a77a21</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="86-dos-version-0.1-c-serial-11-original-disk_meta.xml" source="original">
+    <mtime>1704053946</mtime>
+    <size>1531</size>
+    <md5>9215d2ffc5998e02689b21a40da44fee</md5>
+    <crc32>8be959b9</crc32>
+    <sha1>eac2a00071ff95d82ad9f6a922a303aff88265d6</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="86-dos-version-0.1-c-serial-11-original-disk_reviews.xml" source="original">
+    <mtime>1703953596</mtime>
+    <size>1200</size>
+    <md5>843bc00a6c139c5ec45005ed193174a0</md5>
+    <crc32>85a10b88</crc32>
+    <sha1>d3026a64ba734f7a8d5d88faeb7862413aae0ce1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1703874403</mtime>
+    <size>6921</size>
+    <md5>ab6eb02cc01ec5ed0d96cce1acc9c0b3</md5>
+    <crc32>5367af57</crc32>
+    <sha1>27b507dd17ca910e4cc5833c5439e622d16734aa</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
